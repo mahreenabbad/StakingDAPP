@@ -1,0 +1,3 @@
+stakeToken deployed to 0x3cc8421a99d9a6375145480fc796E4324cd1DB66
+rewardToken deployed to 0x307302349ec3EE1E67bAc6d39FD63e0c58Eea0aC
+staking deployed to 0xB15ebb76b39128016525e79202D1090D06b32314
